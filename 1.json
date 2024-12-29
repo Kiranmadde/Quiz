@@ -1,0 +1,682 @@
+[
+ {
+  "Question": "What is the capital of France?",
+  "A": "London",
+  "B": "Berlin",
+  "C": "Paris",
+  "D": "Rome",
+  "Answer": "Paris"
+ },
+ {
+  "Question": "Who wrote \"To Kill a Mockingbird\"?",
+  "A": "Mark Twain",
+  "B": "Harper Lee",
+  "C": "J.K. Rowling",
+  "D": "William Shakespeare",
+  "Answer": "Harper Lee"
+ },
+ {
+  "Question": "Which planet is known as the \"Red Planet\"?",
+  "A": "Venus",
+  "B": "Jupiter",
+  "C": "Mars",
+  "D": "Saturn",
+  "Answer": "Mars"
+ },
+ {
+  "Question": "What is the chemical symbol for water?",
+  "A": "Wo",
+  "B": "Wa",
+  "C": "H2O",
+  "D": "Hy",
+  "Answer": "H2O"
+ },
+ {
+  "Question": "Which country is the largest by land area?",
+  "A": "Russia",
+  "B": "United States",
+  "C": "China",
+  "D": "Canada",
+  "Answer": "Russia"
+ },
+ {
+  "Question": "Who painted the Mona Lisa?",
+  "A": "Vincent van Gogh",
+  "B": "Leonardo da Vinci",
+  "C": "Pablo Picasso",
+  "D": "Michelangelo",
+  "Answer": "Leonardo da Vinci"
+ },
+ {
+  "Question": "What is the currency of Japan?",
+  "A": "Yen",
+  "B": "Yuan",
+  "C": "Euro",
+  "D": "Dollar",
+  "Answer": "Yen"
+ },
+ {
+  "Question": "In which year did World War II end?",
+  "A": 1943,
+  "B": 1945,
+  "C": 1950,
+  "D": 1939,
+  "Answer": 1945
+ },
+ {
+  "Question": "Who was the first person to step on the moon?",
+  "A": "Neil Armstrong",
+  "B": "Buzz Aldrin",
+  "C": "Yuri Gagarin",
+  "D": "John Glenn",
+  "Answer": "Neil Armstrong"
+ },
+ {
+  "Question": "What is the tallest mountain in the world?",
+  "A": "K2",
+  "B": "Mount Kilimanjaro",
+  "C": "Mount Everest",
+  "D": "Mount Fuji",
+  "Answer": "Mount Everest"
+ },
+ {
+  "Question": "What is the chemical symbol for gold?",
+  "A": "Au",
+  "B": "Ag",
+  "C": "G",
+  "D": "Go",
+  "Answer": "Au"
+ },
+ {
+  "Question": "Who is known as the Father of Computers?",
+  "A": "Alan Turing",
+  "B": "Charles Babbage",
+  "C": "Ada Lovelace",
+  "D": "Bill Gates",
+  "Answer": "Charles Babbage"
+ },
+ {
+  "Question": "Which country is famous for the sport of cricket?",
+  "A": "Australia",
+  "B": "Brazil",
+  "C": "India",
+  "D": "Germany",
+  "Answer": "India"
+ },
+ {
+  "Question": "What is the largest organ in the human body?",
+  "A": "Liver",
+  "B": "Brain",
+  "C": "Skin",
+  "D": "Heart",
+  "Answer": "Skin"
+ },
+ {
+  "Question": "Who wrote \"Romeo and Juliet\"?",
+  "A": "William Wordsworth",
+  "B": "William Shakespeare",
+  "C": "John Milton",
+  "D": "Geoffrey Chaucer",
+  "Answer": "William Shakespeare"
+ },
+ {
+  "Question": "What is the largest ocean on Earth?",
+  "A": "Atlantic Ocean",
+  "B": "Indian Ocean",
+  "C": "Arctic Ocean",
+  "D": "Pacific Ocean",
+  "Answer": "Pacific Ocean"
+ },
+ {
+  "Question": "Who invented the telephone?",
+  "A": "Alexander Graham Bell",
+  "B": "Thomas Edison",
+  "C": "Nikola Tesla",
+  "D": "Albert Einstein",
+  "Answer": "Alexander Graham Bell"
+ },
+ {
+  "Question": "What is the chemical symbol for oxygen?",
+  "A": "O",
+  "B": "Ox",
+  "C": "Oc",
+  "D": "Oz",
+  "Answer": "O"
+ },
+ {
+  "Question": "Which country is known as the Land of the Rising Sun?",
+  "A": "China",
+  "B": "India",
+  "C": "Japan",
+  "D": "South Korea",
+  "Answer": "Japan"
+ },
+ {
+  "Question": "Who is the author of \"Harry Potter\" series?",
+  "A": "J.K. Rowling",
+  "B": "J.R.R. Tolkien",
+  "C": "Stephen King",
+  "D": "George R.R. Martin",
+  "Answer": "J.K. Rowling"
+ },
+ {
+  "Question": "What is the capital of Spain?",
+  "A": "Berlin",
+  "B": "Paris",
+  "C": "Madrid",
+  "D": "Rome",
+  "Answer": "Madrid"
+ },
+ {
+  "Question": "Who discovered penicillin?",
+  "A": "Alexander Fleming",
+  "B": "Louis Pasteur",
+  "C": "Marie Curie",
+  "D": "Jonas Salk",
+  "Answer": "Alexander Fleming"
+ },
+ {
+  "Question": "Which animal is known as the \"Ship of the Desert\"?",
+  "A": "Elephant",
+  "B": "Camel",
+  "C": "Horse",
+  "D": "Zebra",
+  "Answer": "Camel"
+ },
+ {
+  "Question": "What is the chemical symbol for sodium?",
+  "A": "S",
+  "B": "So",
+  "C": "Na",
+  "D": "Sa",
+  "Answer": "Na"
+ },
+ {
+  "Question": "Who is known as the \"Father of the Nation\" in India?",
+  "A": "Jawaharlal Nehru",
+  "B": "Mahatma Gandhi",
+  "C": "Subhas Chandra Bose",
+  "D": "Sardar Vallabhbhai Patel",
+  "Answer": "Mahatma Gandhi"
+ },
+ {
+  "Question": "What is the capital of Australia?",
+  "A": "Melbourne",
+  "B": "Sydney",
+  "C": "Canberra",
+  "D": "Brisbane",
+  "Answer": "Canberra"
+ },
+ {
+  "Question": "What is the chemical symbol for silver?",
+  "A": "Si",
+  "B": "Ag",
+  "C": "Agi",
+  "D": "Sv",
+  "Answer": "Ag"
+ },
+ {
+  "Question": "Who painted \"The Starry Night\"?",
+  "A": "Vincent van Gogh",
+  "B": "Pablo Picasso",
+  "C": "Claude Monet",
+  "D": "Leonardo da Vinci",
+  "Answer": "Vincent van Gogh"
+ },
+ {
+  "Question": "What is the largest desert in the world?",
+  "A": "Sahara Desert",
+  "B": "Gobi Desert",
+  "C": "Antarctic Desert",
+  "D": "Arabian Desert",
+  "Answer": "Antarctic Desert"
+ },
+ {
+  "Question": "Who discovered gravity when an apple fell on his head?",
+  "A": "Isaac Newton",
+  "B": "Albert Einstein",
+  "C": "Galileo Galilei",
+  "D": "Johannes Kepler",
+  "Answer": "Isaac Newton"
+ },
+ {
+  "Question": "Which is the smallest bone in the human body?",
+  "A": "Femur",
+  "B": "Tibia",
+  "C": "Stapes",
+  "D": "Fibula",
+  "Answer": "Stapes"
+ },
+ {
+  "Question": "Who is the creator of the theory of relativity?",
+  "A": "Isaac Newton",
+  "B": "Albert Einstein",
+  "C": "Galileo Galilei",
+  "D": "Johannes Kepler",
+  "Answer": "Albert Einstein"
+ },
+ {
+  "Question": "What is the chemical symbol for carbon?",
+  "A": "C",
+  "B": "Ca",
+  "C": "Co",
+  "D": "Cr",
+  "Answer": "C"
+ },
+ {
+  "Question": "Which country is known as the \"Land of Thunder Dragon\"?",
+  "A": "Bhutan",
+  "B": "Nepal",
+  "C": "Tibet",
+  "D": "Myanmar",
+  "Answer": "Bhutan"
+ },
+ {
+  "Question": "Who wrote \"1984\"?",
+  "A": "George Orwell",
+  "B": "Aldous Huxley",
+  "C": "Ernest Hemingway",
+  "D": "F. Scott Fitzgerald",
+  "Answer": "George Orwell"
+ },
+ {
+  "Question": "What is the chemical symbol for iron?",
+  "A": "I",
+  "B": "Ir",
+  "C": "Fe",
+  "D": "F",
+  "Answer": "Fe"
+ },
+ {
+  "Question": "Who painted \"The Last Supper\"?",
+  "A": "Vincent van Gogh",
+  "B": "Leonardo da Vinci",
+  "C": "Pablo Picasso",
+  "D": "Michelangelo",
+  "Answer": "Leonardo da Vinci"
+ },
+ {
+  "Question": "Who is known as the \"King of Pop\"?",
+  "A": "Elvis Presley",
+  "B": "Michael Jackson",
+  "C": "Madonna",
+  "D": "Prince",
+  "Answer": "Michael Jackson"
+ },
+ {
+  "Question": "Which planet is known as the \"Blue Planet\"?",
+  "A": "Mars",
+  "B": "Jupiter",
+  "C": "Earth",
+  "D": "Saturn",
+  "Answer": "Earth"
+ },
+ {
+  "Question": "What is the capital of Canada?",
+  "A": "Toronto",
+  "B": "Montreal",
+  "C": "Vancouver",
+  "D": "Ottawa",
+  "Answer": "Ottawa"
+ },
+ {
+  "Question": "Who is the author of \"The Great Gatsby\"?",
+  "A": "George Orwell",
+  "B": "Aldous Huxley",
+  "C": "Ernest Hemingway",
+  "D": "F. Scott Fitzgerald",
+  "Answer": "F. Scott Fitzgerald"
+ },
+ {
+  "Question": "What is the chemical symbol for helium?",
+  "A": "H",
+  "B": "He",
+  "C": "Hel",
+  "D": "Hl",
+  "Answer": "He"
+ },
+ {
+  "Question": "What is the capital of Italy?",
+  "A": "London",
+  "B": "Berlin",
+  "C": "Paris",
+  "D": "Rome",
+  "Answer": "Rome"
+ },
+ {
+  "Question": "Who discovered the theory of evolution?",
+  "A": "Isaac Newton",
+  "B": "Albert Einstein",
+  "C": "Galileo Galilei",
+  "D": "Charles Darwin",
+  "Answer": "Charles Darwin"
+ },
+ {
+  "Question": "What is the chemical symbol for potassium?",
+  "A": "P",
+  "B": "Po",
+  "C": "Ka",
+  "D": "K",
+  "Answer": "K"
+ },
+ {
+  "Question": "Who painted \"The Persistence of Memory\"?",
+  "A": "Vincent van Gogh",
+  "B": "Pablo Picasso",
+  "C": "Claude Monet",
+  "D": "Salvador Dali",
+  "Answer": "Salvador Dali"
+ },
+ {
+  "Question": "What is the capital of Brazil?",
+  "A": "Brasilia",
+  "B": "Rio de Janeiro",
+  "C": "Sao Paulo",
+  "D": "Buenos Aires",
+  "Answer": "Brasilia"
+ },
+ {
+  "Question": "Who is known as the \"Queen of Soul\"?",
+  "A": "Beyoncé",
+  "B": "Whitney Houston",
+  "C": "Aretha Franklin",
+  "D": "Mariah Carey",
+  "Answer": "Aretha Franklin"
+ },
+ {
+  "Question": "Which is the second largest planet in our solar system?",
+  "A": "Mars",
+  "B": "Jupiter",
+  "C": "Earth",
+  "D": "Saturn",
+  "Answer": "Saturn"
+ },
+ {
+  "Question": "Who wrote \"War and Peace\"?",
+  "A": "Leo Tolstoy",
+  "B": "Fyodor Dostoevsky",
+  "C": "Nikolai Gogol",
+  "D": "Anton Chekhov",
+  "Answer": "Leo Tolstoy"
+ },
+ {
+  "Question": "What is the chemical symbol for nitrogen?",
+  "A": "N",
+  "B": "Ni",
+  "C": "Ne",
+  "D": "Na",
+  "Answer": "N"
+ },
+ {
+  "Question": "What is the capital of China?",
+  "A": "Beijing",
+  "B": "Shanghai",
+  "C": "Guangzhou",
+  "D": "Hong Kong",
+  "Answer": "Beijing"
+ },
+ {
+  "Question": "Who discovered electricity?",
+  "A": "Thomas Edison",
+  "B": "Benjamin Franklin",
+  "C": "Nikola Tesla",
+  "D": "Michael Faraday",
+  "Answer": "Benjamin Franklin"
+ },
+ {
+  "Question": "What is the chemical symbol for lead?",
+  "A": "L",
+  "B": "Pb",
+  "C": "Le",
+  "D": "Ld",
+  "Answer": "Pb"
+ },
+ {
+  "Question": "Who painted \"Guernica\"?",
+  "A": "Vincent van Gogh",
+  "B": "Pablo Picasso",
+  "C": "Claude Monet",
+  "D": "Leonardo da Vinci",
+  "Answer": "Pablo Picasso"
+ },
+ {
+  "Question": "What is the capital of Russia?",
+  "A": "Moscow",
+  "B": "Saint Petersburg",
+  "C": "Novosibirsk",
+  "D": "Yekaterinburg",
+  "Answer": "Moscow"
+ },
+ {
+  "Question": "Who wrote \"Pride and Prejudice\"?",
+  "A": "Jane Austen",
+  "B": "Charlotte Bronte",
+  "C": "Emily Bronte",
+  "D": "Virginia Woolf",
+  "Answer": "Jane Austen"
+ },
+ {
+  "Question": "What is the chemical symbol for calcium?",
+  "A": "C",
+  "B": "Ca",
+  "C": "Co",
+  "D": "Cl",
+  "Answer": "Ca"
+ },
+ {
+  "Question": "Who painted \"The Scream\"?",
+  "A": "Vincent van Gogh",
+  "B": "Pablo Picasso",
+  "C": "Claude Monet",
+  "D": "Edvard Munch",
+  "Answer": "Edvard Munch"
+ },
+ {
+  "Question": "What is the capital of India?",
+  "A": "Mumbai",
+  "B": "Kolkata",
+  "C": "Chennai",
+  "D": "New Delhi",
+  "Answer": "New Delhi"
+ },
+ {
+  "Question": "Who is the creator of the periodic table?",
+  "A": "Dmitri Mendeleev",
+  "B": "Marie Curie",
+  "C": "Ernest Rutherford",
+  "D": "Niels Bohr",
+  "Answer": "Dmitri Mendeleev"
+ },
+ {
+  "Question": "What is the chemical symbol for copper?",
+  "A": "C",
+  "B": "Co",
+  "C": "Cp",
+  "D": "Cu",
+  "Answer": "Cu"
+ },
+ {
+  "Question": "Who is known as the \"Bard of Avon\"?",
+  "A": "William Wordsworth",
+  "B": "William Shakespeare",
+  "C": "John Milton",
+  "D": "Geoffrey Chaucer",
+  "Answer": "William Shakespeare"
+ },
+ {
+  "Question": "Which is the largest bird in the world?",
+  "A": "Ostrich",
+  "B": "Penguin",
+  "C": "Eagle",
+  "D": "Emu",
+  "Answer": "Ostrich"
+ },
+ {
+  "Question": "What is the capital of South Africa?",
+  "A": "Johannesburg",
+  "B": "Pretoria",
+  "C": "Cape Town",
+  "D": "Durban",
+  "Answer": "Pretoria"
+ },
+ {
+  "Question": "Who wrote \"The Catcher in the Rye\"?",
+  "A": "J.D. Salinger",
+  "B": "F. Scott Fitzgerald",
+  "C": "Ernest Hemingway",
+  "D": "Mark Twain",
+  "Answer": "J.D. Salinger"
+ },
+ {
+  "Question": "What is the chemical symbol for silver?",
+  "A": "Si",
+  "B": "Ag",
+  "C": "Agi",
+  "D": "Sv",
+  "Answer": "Ag"
+ },
+ {
+  "Question": "Who painted \"The Birth of Venus\"?",
+  "A": "Vincent van Gogh",
+  "B": "Pablo Picasso",
+  "C": "Claude Monet",
+  "D": "Sandro Botticelli",
+  "Answer": "Sandro Botticelli"
+ },
+ {
+  "Question": "What is the capital of United Kingdom?",
+  "A": "London",
+  "B": "Manchester",
+  "C": "Birmingham",
+  "D": "Liverpool",
+  "Answer": "London"
+ },
+ {
+  "Question": "Who wrote \"The Odyssey\"?",
+  "A": "Homer",
+  "B": "Plato",
+  "C": "Aristotle",
+  "D": "Socrates",
+  "Answer": "Homer"
+ },
+ {
+  "Question": "What is the chemical symbol for mercury?",
+  "A": "Hg",
+  "B": "Mg",
+  "C": "Me",
+  "D": "Mc",
+  "Answer": "Hg"
+ },
+ {
+  "Question": "Who discovered the theory of gravity?",
+  "A": "Isaac Newton",
+  "B": "Albert Einstein",
+  "C": "Galileo Galilei",
+  "D": "Johannes Kepler",
+  "Answer": "Isaac Newton"
+ },
+ {
+  "Question": "What is the capital of Germany?",
+  "A": "Berlin",
+  "B": "Munich",
+  "C": "Hamburg",
+  "D": "Frankfurt",
+  "Answer": "Berlin"
+ },
+ {
+  "Question": "Who wrote \"The Canterbury Tales\"?",
+  "A": "Geoffrey Chaucer",
+  "B": "William Shakespeare",
+  "C": "John Milton",
+  "D": "Dante Alighieri",
+  "Answer": "Geoffrey Chaucer"
+ },
+ {
+  "Question": "What is the chemical symbol for tin?",
+  "A": "T",
+  "B": "Ti",
+  "C": "Sn",
+  "D": "S",
+  "Answer": "Sn"
+ },
+ {
+  "Question": "Who is known as the \"Lady with the Lamp\"?",
+  "A": "Florence Nightingale",
+  "B": "Joan of Arc",
+  "C": "Marie Curie",
+  "D": "Mother Teresa",
+  "Answer": "Florence Nightingale"
+ },
+ {
+  "Question": "Which is the smallest planet in our solar system?",
+  "A": "Mars",
+  "B": "Venus",
+  "C": "Earth",
+  "D": "Mercury",
+  "Answer": "Mercury"
+ },
+ {
+  "Question": "Who wrote \"Moby-Dick\"?",
+  "A": "Herman Melville",
+  "B": "Mark Twain",
+  "C": "Nathaniel Hawthorne",
+  "D": "Emily Dickinson",
+  "Answer": "Herman Melville"
+ },
+ {
+  "Question": "What is the chemical symbol for uranium?",
+  "A": "U",
+  "B": "Un",
+  "C": "Ur",
+  "D": "Um",
+  "Answer": "U"
+ },
+ {
+  "Question": "Who is known as the \"Father of Geometry\"?",
+  "A": "Euclid",
+  "B": "Pythagoras",
+  "C": "Archimedes",
+  "D": "Socrates",
+  "Answer": "Euclid"
+ },
+ {
+  "Question": "Which is the only mammal capable of sustained flight?",
+  "A": "Bat",
+  "B": "Rat",
+  "C": "Cat",
+  "D": "Dog",
+  "Answer": "Bat"
+ },
+ {
+  "Question": "What is the capital of Egypt?",
+  "A": "Cairo",
+  "B": "Alexandria",
+  "C": "Giza",
+  "D": "Luxor",
+  "Answer": "Cairo"
+ },
+ {
+  "Question": "Who wrote \"The Divine Comedy\"?",
+  "A": "Dante Alighieri",
+  "B": "Geoffrey Chaucer",
+  "C": "William Shakespeare",
+  "D": "John Milton",
+  "Answer": "Dante Alighieri"
+ },
+ {
+  "Question": "What is the chemical symbol for silver?",
+  "A": "Si",
+  "B": "Ag",
+  "C": "Agi",
+  "D": "Sv",
+  "Answer": "Ag"
+ },
+ {
+  "Question": "Who painted \"Girl with a Pearl Earring\"?",
+  "A": "Vincent van Gogh",
+  "B": "Pablo Picasso",
+  "C": "Claude Monet",
+  "D": "Johannes Vermeer",
+  "Answer": "Johannes Vermeer"
+ }
+]
